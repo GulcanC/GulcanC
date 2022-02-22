@@ -1,4 +1,12 @@
-Hi there! 
+# Hi there! :wave:
+
+## :left_speech_bubble: About Me!
+
+## 	:high_brightness: Skills
+
+#### Languages
+
+
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
