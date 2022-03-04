@@ -71,7 +71,7 @@
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcanC&show_icons=true&theme=radical)
 
     
-![ GitHub stats](https://github-readme-stats.api?username=GulcanC&show_top-langs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulcanC&hide=javascript,html)](https://github.com/GulcanC/github-readme-stats)
 
 
 
