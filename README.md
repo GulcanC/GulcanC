@@ -68,7 +68,9 @@
   	
    
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcanC&show_icons=true&theme=radical)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=GulcanC)](https://github.com/GulcanC/github-readme-stats)
     
 
       
