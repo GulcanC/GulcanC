@@ -44,7 +44,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Open Classrooms](https://img.shields.io/badge/OpenClassrooms-000000?style=for-the-badge&logo=openClassrooms&logoColor=white)
+
 
 ### Version Control 
 
