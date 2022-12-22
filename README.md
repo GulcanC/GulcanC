@@ -5,6 +5,8 @@ I am a highly motivated web developer with a background in Chemical Engineering.
 I am skilled in HTML, CSS, SASS, Bootstrap, JavaScript, VueJS, NodeJS, Express, Rest APIs and MongoDB.
 I spend a large amount of my free time learning different programming languages and exploring the latest technology advancements in web development world.
 
+🌟 🔗 https://medium.com/@gulcancoskun.a
+
 ## :high_brightness: Skills
 
 ### :pushpin:  Languages
