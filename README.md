@@ -7,37 +7,37 @@ I spend a large amount of my free time learning different programming languages 
 
 ## 🌟 See some of my projects, for others visit my [repository](https://github.com/GulcanC?tab=repositories)
 
-1) Create a real estate rental web application with React
+1) Create a real estate rental web application with React |ReactJS
 
 🌐 https://gcoskun-react-app.web.app/
 
 ▶️ https://github.com/GulcanC/GC-react-p2
 
-2) Créez un Réseau Social d'Entreprise | Groupmania
+2) Créez un Réseau Social d'Entreprise | Groupmania | VueJS, NodeJS
 
 🌐 https://www.youtube.com/watch?v=rM21HN7NaPQ
 
 ▶️ https://github.com/GulcanC/OPC_7_MongoDB
 
-3) Construisez une API sécurisée pour une application d'avis gastronomiques
+3) Construisez une API sécurisée pour une application d'avis gastronomiques | NodeJS
 
 🌐 https://www.youtube.com/watch?v=ISGOk1S7ecE
 
 ▶️ https://github.com/GulcanC/OPC_6
 
-4) Construisez un site e-commerce en JavaScript
+4) Construisez un site e-commerce en JavaScript | JavaScript
 
 🌐 https://gulcanc.github.io/OPC_4/
 
 ▶️ https://github.com/GulcanC/OPC_5
 
-5) Optimisez un site web existant - La Panthere
+5) Optimisez un site web existant - La Panthere | SEO, performance, accessibilty
 
 🌐 https://gulcanc.github.io/OPC_3/
 
 ▶️ https://github.com/GulcanC/OPC_3
 
-6) Dynamisez une page web avec des animations CSS
+6) Dynamisez une page web avec des animations CSS | Sass
 
 🌐 https://gulcanc.github.io/OPC_2/
 
