@@ -2,7 +2,7 @@
 
 ## 🌟 About Me!
 I am a highly motivated web developer with a background in Chemical Engineering.
-I am skilled in HTML, CSS, SASS, Bootstrap, JavaScript, VueJS, NodeJS, Express, Rest APIs and MongoDB.
+I am skilled in HTML, CSS, SASS, Bootstrap, JavaScript, VueJS, ReactJS, NodeJS, Express, Rest APIs SQL and MongoDB.
 I spend a large amount of my free time learning different programming languages and exploring the latest technology advancements in web development world.
 
 ## 🌟 See some of my projects, for others visit my [repository](https://github.com/GulcanC?tab=repositories)
