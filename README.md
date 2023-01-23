@@ -13,37 +13,41 @@ I spend a large amount of my free time learning different programming languages 
 
 ▶️ https://github.com/GulcanC/GC-react-p2
 
-2) Créez un Réseau Social d'Entreprise | Groupmania | VueJS, NodeJS
+2) React Native Project
+
+▶️ https://github.com/GulcanC/GC-react-p2
+
+3) Créez un Réseau Social d'Entreprise | Groupmania | VueJS, NodeJS
 
 🌐 https://www.youtube.com/watch?v=rM21HN7NaPQ
 
 ▶️ https://github.com/GulcanC/OPC_7_MongoDB
 
-3) Construisez une API sécurisée pour une application d'avis gastronomiques | NodeJS
+4) Construisez une API sécurisée pour une application d'avis gastronomiques | NodeJS
 
 🌐 https://www.youtube.com/watch?v=ISGOk1S7ecE
 
 ▶️ https://github.com/GulcanC/OPC_6
 
-4) Construisez un site e-commerce en JavaScript | JavaScript
+5) Construisez un site e-commerce en JavaScript | JavaScript
 
 🌐 https://gulcanc.github.io/OPC_4/
 
 ▶️ https://github.com/GulcanC/OPC_5
 
-5) Optimisez un site web existant - La Panthere | SEO, performance, accessibilty
+6) Optimisez un site web existant - La Panthere | SEO, performance, accessibilty
 
 🌐 https://gulcanc.github.io/OPC_3/
 
 ▶️ https://github.com/GulcanC/OPC_3
 
-6) Dynamisez une page web avec des animations CSS | Sass
+7) Dynamisez une page web avec des animations CSS | Sass
 
 🌐 https://gulcanc.github.io/OPC_2/
 
 ▶️ https://github.com/GulcanC/OPC_2
 
-7) Transformer une maquette en site web avec HTML & CSS
+8) Transformer une maquette en site web avec HTML & CSS
 
 🌐 https://gulcanc.github.io/OPC_1/
 
