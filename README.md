@@ -7,17 +7,17 @@ I spend a large amount of my free time learning different programming languages 
 
 ## 🌟 See some of my projects, for others visit my [repository](https://github.com/GulcanC?tab=repositories)
 
-1) Create a real estate rental web application with React | ReactJS
+1) Create a real estate rental web application with React | ReactJS, Sass
 
 🌐 https://gcoskun-react-app.web.app/
 
 ▶️ https://github.com/GulcanC/GC-react-p2
 
-2) React Native Project
+2) React Native Project | React Native
 
 ▶️ https://github.com/GulcanC/gc-react-native
 
-3) Créez un Réseau Social d'Entreprise | Groupmania | VueJS, NodeJS
+3) Créez un Réseau Social d'Entreprise | Groupmania | VueJS, NodeJS, Sass, Bootstrap
 
 🌐 https://www.youtube.com/watch?v=rM21HN7NaPQ
 
@@ -41,7 +41,7 @@ I spend a large amount of my free time learning different programming languages 
 
 ▶️ https://github.com/GulcanC/OPC_3
 
-7) Dynamisez une page web avec des animations CSS | Sass
+7) Dynamisez une page web avec des animations | CSS | Sass
 
 🌐 https://gulcanc.github.io/OPC_2/
 
