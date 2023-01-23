@@ -15,7 +15,7 @@ I spend a large amount of my free time learning different programming languages 
 
 2) React Native Project
 
-▶️ https://github.com/GulcanC/GC-react-p2
+▶️ (https://github.com/GulcanC/gc-react-native)
 
 3) Créez un Réseau Social d'Entreprise | Groupmania | VueJS, NodeJS
 
