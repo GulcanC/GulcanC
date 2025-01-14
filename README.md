@@ -10,6 +10,7 @@ I spend a large amount of my free time learning different programming languages 
 1) Create a real estate rental web application with React | ReactJS, Sass
 
 🌐 https://gcoskun-react-app.web.app/
+🌐 https://gulcan-kasa-2025.web.app/home
 
 ▶️ https://github.com/GulcanC/GC-react-p2
 
